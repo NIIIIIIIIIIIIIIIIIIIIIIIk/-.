@@ -7,7 +7,7 @@ import { unlockApp } from '../../utils/storage';
 import { checkEasterEgg } from '../../utils/easterEggs';
 import { trackVisit } from '../../utils/analytics';
 import { EasterEgg } from '../../types';
-import { DIRECTOR_NAME, PRODUCER_NAME } from '../../utils/constants';
+import { DIRECTOR_NAME, MENEGER_NAME } from '../../utils/constants';
 import { TelegramLink } from '../UI/TelegramLink';
 import styles from './DuneLanding.module.css';
 import { useNavigate } from 'react-router-dom';
